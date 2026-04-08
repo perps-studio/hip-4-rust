@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://crates.io/crates/hip4"><img src="https://img.shields.io/crates/v/hip4.svg" alt="crates.io version" /></a>
-  <img src="https://img.shields.io/badge/signing-from_scratch-brightgreen" alt="from-scratch signing" />
   <img src="https://img.shields.io/badge/runtime-tokio-blue" alt="tokio" />
   <img src="https://img.shields.io/crates/l/hip4" alt="license" />
 </p>
