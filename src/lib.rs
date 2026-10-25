@@ -1,5 +1,8 @@
 //! # hip4
 //!
+//! **Deprecated.** Use [`df-hyperliquid-core`](https://crates.io/crates/df-hyperliquid-core),
+//! the feature complete Hyperliquid SDK for Rust.
+//!
 //! Rust SDK for Hyperliquid HIP-4 prediction markets.
 //!
 //! Provides typed access to all HIP-4 operations:

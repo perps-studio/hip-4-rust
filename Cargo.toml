@@ -1,8 +1,8 @@
 [package]
 name = "hip4"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-description = "Rust SDK for Hyperliquid HIP-4 prediction markets"
+description = "Deprecated: use df-hyperliquid-core. Rust SDK for Hyperliquid HIP-4 prediction markets"
 license = "BUSL-1.1"
 authors = ["Dennis Furrer"]
 repository = "https://github.com/perps-studio/hip-4-rust"
@@ -10,6 +10,9 @@ homepage = "https://github.com/perps-studio/hip-4-rust"
 readme = "README.md"
 keywords = ["hyperliquid", "hip4", "prediction-markets", "trading", "crypto"]
 categories = ["api-bindings", "cryptography::cryptocurrencies"]
+
+[badges]
+maintenance = { status = "deprecated" }
 
 [dependencies]
 # Async runtime
